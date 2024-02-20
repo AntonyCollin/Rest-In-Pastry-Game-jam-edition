@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88e80243a5fe5534894ef9ec73ab21c9, type: 3}
+  m_Name: Red Ghost
+  m_EditorClassIdentifier: 
+  ghostType: 2
+  timeBeforeLeaving: 13
+  nbOfOrders: 1
+  dialogues:
+  - {fileID: 11400000, guid: 8e6782fcf92f7094a82459f464dab2c6, type: 2}
+  - {fileID: 11400000, guid: 9d65ebc3f9501904c908ab916e4027cc, type: 2}
+  - {fileID: 11400000, guid: 3324d2c77121ef848bcf2dab9f6f0e8c, type: 2}
+  - {fileID: 11400000, guid: 9ebb6e484ba73b24fa6e699e9191dcc6, type: 2}
+  - {fileID: 11400000, guid: d061c51def9b5b847a269da0788e3e80, type: 2}
+  missingOrderDialogues:
+  - {fileID: 11400000, guid: 1eba8aa9e421b584da88c4d083176124, type: 2}
+  - {fileID: 11400000, guid: efcd13c7be4c6594fade7c86d6d666fe, type: 2}
+  - {fileID: 11400000, guid: 188cef71476588345be009f9e6233172, type: 2}
+  - {fileID: 11400000, guid: 3adc3de6e6053e2428691b82f6e8d406, type: 2}

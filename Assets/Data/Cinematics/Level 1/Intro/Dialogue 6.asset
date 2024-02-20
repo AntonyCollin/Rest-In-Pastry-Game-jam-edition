@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0808a313f21f9464b9bd1365162a77d0, type: 3}
+  m_Name: Dialogue 6
+  m_EditorClassIdentifier: 
+  background: {fileID: 0}
+  sprites:
+  - {fileID: 21300000, guid: e11fdfcab60a0d54f87b96a887620800, type: 3}
+  - {fileID: 21300000, guid: 99ae986c5fc66be4db3430a5caa7ab05, type: 3}
+  spritePositions: 0000000001000000
+  speakerName: Reaper
+  line: Margo. Thou hast died and, through choice, cast thyself into hell, condemned
+    to witness the end of times.
+  isLastLine: 0
+  isFirstLine: 0

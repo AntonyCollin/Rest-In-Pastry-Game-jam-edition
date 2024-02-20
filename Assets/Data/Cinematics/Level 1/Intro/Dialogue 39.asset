@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0808a313f21f9464b9bd1365162a77d0, type: 3}
+  m_Name: Dialogue 39
+  m_EditorClassIdentifier: 
+  background: {fileID: 0}
+  sprites: []
+  spritePositions: 
+  speakerName: 
+  line: 'A few things to note: Spirits are not very patient. Some are not patient
+    at all.  If a spirit is not sure of what to get, serve the opposite of their
+    suggestion. This may need some thinking!  Please, do not tell the spirits that
+    they have no hands or mouth. They might cause a scene. Paychecks are given out
+    every other Eon.'
+  isLastLine: 0
+  isFirstLine: 0

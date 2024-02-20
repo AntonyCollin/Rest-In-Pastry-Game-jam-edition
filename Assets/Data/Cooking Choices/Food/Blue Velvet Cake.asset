@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ccbf8b2b9afddd418c17894fc8b0bd0, type: 3}
+  m_Name: Blue Velvet Cake
+  m_EditorClassIdentifier: 
+  name: Blue Velvet Cake
+  nextChoices: []
+  image: {fileID: 21300000, guid: 477ca10b55bfda84b98be63394673588, type: 3}
+  oppositeName: Red Velvet Cake
+  inverseImage: {fileID: 21300000, guid: c1731eca5582bbe4f8a7f25d2d677dcb, type: 3}
+  oppositeIngredient: {fileID: 11400000, guid: bb54db0ab9ec816489b68689eb0e7f82, type: 2}
+  category: 3

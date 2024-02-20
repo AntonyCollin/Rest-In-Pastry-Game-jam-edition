@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ccbf8b2b9afddd418c17894fc8b0bd0, type: 3}
+  m_Name: Pastry
+  m_EditorClassIdentifier: 
+  name: Pastry
+  nextChoices: []
+  image: {fileID: 21300000, guid: 2ffd531185125cd49aa1142263a6002c, type: 3}
+  inverseImage: {fileID: 0}
+  hoverImage: {fileID: 21300000, guid: 2ffd531185125cd49aa1142263a6002c, type: 3}
+  category: 0
+  isFinal: 1
+  finalName: 

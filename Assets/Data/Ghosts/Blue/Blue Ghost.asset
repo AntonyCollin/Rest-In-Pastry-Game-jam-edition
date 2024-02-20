@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88e80243a5fe5534894ef9ec73ab21c9, type: 3}
+  m_Name: Blue Ghost
+  m_EditorClassIdentifier: 
+  ghostType: 1
+  timeBeforeLeaving: 13
+  nbOfOrders: 1
+  dialogues:
+  - {fileID: 11400000, guid: f6e00ff8dfe49024c9a489a5bc94fdea, type: 2}
+  - {fileID: 11400000, guid: 4a3e6dd56c0269c4085672c910a94a17, type: 2}
+  - {fileID: 11400000, guid: 2885a629f3b2e2d4aaa856bc31bb9ee7, type: 2}
+  - {fileID: 11400000, guid: 20ae972a2c8e2a04781e24b55cad6f7b, type: 2}
+  - {fileID: 11400000, guid: 8ad534ef1a671e44486ecfed2f3b8593, type: 2}
+  missingOrderDialogues:
+  - {fileID: 11400000, guid: 663e53cd24dbecd43afb2f03ed4b34fd, type: 2}
+  - {fileID: 11400000, guid: a242f973113b12b4485e527f90cf6037, type: 2}
+  - {fileID: 11400000, guid: 84893298fe88c104984d9403ebb9203e, type: 2}
